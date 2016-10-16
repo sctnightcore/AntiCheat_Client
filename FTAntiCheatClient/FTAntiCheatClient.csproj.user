@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://ftp.fragturk.com/fragturk.com/wwwroot/ac/|ftp://ftp.fragturk.com/wwwroot/ac/|ftp://ftp.fragturk.com/wwwroot/mw3anticheat/|http://www.fragturk.com/mw3anticheat/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://www.fragturk.com/ac/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.fragturk.com/ac</SupportUrlHistory>
+    <UpdateUrlHistory>http://www.fragturk.com/ac/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
